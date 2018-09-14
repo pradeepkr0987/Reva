@@ -2,3 +2,7 @@ Hi
 This is pradeep Kumar
 Studied From Bangalore
 Done
+
+Certifications
+Oracle
+And JAVA
